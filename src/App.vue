@@ -7,7 +7,7 @@
     <router-link to="/" class="nav-link" exact>Dashboard</router-link>
     <router-link to="/penjualan" class="nav-link" >penjualan</router-link>
     <router-link to="/pengeluaran" class="nav-link" >Pengeluaran</router-link>
-    <router-link to="/loporan" class="nav-link" >Laporan</router-link>
+    <router-link to="/laporan" class="nav-link" >Laporan</router-link>
 
   </aside>
 

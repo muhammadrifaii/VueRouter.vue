@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import Dashboard from '../views/Dashboard.vue';
 import penjualan from '../views/penjualan.vue';
 import pengeluaran from '../views/pengeluaran.vue';
-import Laporan from '../views/Laporan.vue';
+import Laporan from '../views/laporan.vue';
 ;
 
 const routes = [
