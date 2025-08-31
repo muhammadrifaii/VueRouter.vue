@@ -1,5 +1,15 @@
-# Vue 3 + Vite
+Dalam era digital saat ini, banyak pelaku usaha di sektor makanan dan minuman, khususnya kafe, menghadapi tantangan dalam mengelola keuangan secara efektif. Kebanyakan kafe berskala kecil hingga menengah masih mencatat transaksi secara manual, yang sering kali menimbulkan masalah seperti kesalahan pencatatan, sulitnya melacak pemasukan dan pengeluaran, serta tidak tersedianya laporan keuangan harian yang akurat.
+Dengan melihat kondisi tersebut, saya memilih kasus manajemen keuangan kafe sebagai studi kasus karena topik ini relevan dengan kebutuhan nyata di dunia usaha. Sistem manajemen keuangan digital sangat diperlukan untuk membantu pemilik atau pengelola kafe dalam:
+Melacak pemasukan harian,
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Mengontrol pengeluaran,
+
+
+Menyusun laporan keuangan harian/shift,
+
+
+Mengetahui laba/rugi secara real-time,
+
+
+Mengelola metode pembayaran (cash, QRIS, kartu, dll).
